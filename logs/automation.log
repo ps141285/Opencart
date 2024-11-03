@@ -1,0 +1,36 @@
+05:31:30.377 [main] INFO  testCases.TC001_AccountRegistraition -******Starting TC001_AccountRegistraition******
+05:31:30.678 [main] INFO  testCases.TC001_AccountRegistraition -Clicked on my account element
+05:31:31.327 [main] INFO  testCases.TC001_AccountRegistraition -Clicked on register element
+05:31:31.327 [main] INFO  testCases.TC001_AccountRegistraition -Providing user data for registration form
+05:31:33.903 [main] INFO  testCases.TC001_AccountRegistraition -validating the confirmation messege
+05:31:33.964 [main] INFO  testCases.TC001_AccountRegistraition -****** Ended TC001_AccountRegistraition ******
+05:32:01.047 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+05:32:04.875 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification Finished***
+05:32:17.510 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:32:21.412 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:32:21.419 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:32:33.146 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:32:33.149 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:32:44.786 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:32:44.789 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:32:56.550 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:32:56.552 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:32:59.175 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:57:36.940 [main] INFO  testCases.TC001_AccountRegistraition -******Starting TC001_AccountRegistraition******
+05:57:37.223 [main] INFO  testCases.TC001_AccountRegistraition -Clicked on my account element
+05:57:37.943 [main] INFO  testCases.TC001_AccountRegistraition -Clicked on register element
+05:57:37.943 [main] INFO  testCases.TC001_AccountRegistraition -Providing user data for registration form
+05:57:40.356 [main] INFO  testCases.TC001_AccountRegistraition -validating the confirmation messege
+05:57:40.600 [main] INFO  testCases.TC001_AccountRegistraition -****** Ended TC001_AccountRegistraition ******
+05:58:07.461 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+05:58:10.421 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification Finished***
+05:58:27.678 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:58:32.520 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:58:32.523 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:58:44.096 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:58:44.100 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:59:16.308 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:59:16.310 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:59:27.892 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:59:27.894 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:59:30.116 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****

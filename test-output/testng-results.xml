@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-03T04:58:09 IST" name="Suite" finished-at="2024-11-03T04:58:27 IST" duration-ms="18363">
+    <groups>
+      <group name="Master">
+        <method signature="TC002_Login_Varification.Login_Page_Varification()[pri:0, instance:testCases.TC002_Login_Varification@47a86fbb]" name="Login_Page_Varification" class="testCases.TC002_Login_Varification"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC002_Login_Varification.Login_Page_Varification()[pri:0, instance:testCases.TC002_Login_Varification@47a86fbb]" name="Login_Page_Varification" class="testCases.TC002_Login_Varification"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2024-11-03T04:58:09 IST" name="Test" finished-at="2024-11-03T04:58:27 IST" duration-ms="18363">
+      <class name="testCases.TC002_Login_Varification">
+        <test-method is-config="true" signature="Setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Login_Varification@47a86fbb]" started-at="2024-11-03T04:58:09 IST" name="Setup" finished-at="2024-11-03T04:58:23 IST" duration-ms="14133" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Login_Page_Varification()[pri:0, instance:testCases.TC002_Login_Varification@47a86fbb]" started-at="2024-11-03T04:58:23 IST" name="Login_Page_Varification" finished-at="2024-11-03T04:58:26 IST" duration-ms="2358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Page_Varification -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testCases.TC002_Login_Varification@47a86fbb]" started-at="2024-11-03T04:58:26 IST" name="TearDown" finished-at="2024-11-03T04:58:27 IST" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testCases.TC002_Login_Varification -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,65 @@
+10:29:38.147 [main] INFO  testCases.TC001_AccountRegistraition -Providing user data for registration form
+10:29:39.901 [main] INFO  testCases.TC001_AccountRegistraition -validating the confirmation messege
+10:29:39.976 [main] INFO  testCases.TC001_AccountRegistraition -****** Ended TC001_AccountRegistraition ******
+10:29:50.658 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+10:29:53.376 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification Finished***
+10:42:32.385 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Inspiron\Desktop\selenium\Opencart\master.xml
+
+10:42:42.753 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+10:42:44.714 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification Finished***
+21:40:18.030 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Inspiron\Desktop\selenium\Opencart\master.xml
+
+21:40:18.532 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+21:41:06.932 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Inspiron\Desktop\selenium\Opencart\master.xml
+
+21:41:22.062 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+21:41:24.213 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification Finished***
+21:44:33.810 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Inspiron\Desktop\selenium\Opencart\master.xml
+
+21:44:34.536 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+21:46:20.164 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Inspiron\Desktop\selenium\Opencart\master.xml
+
+21:48:24.983 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Inspiron\Desktop\selenium\Opencart\master.xml
+
+21:53:11.046 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Inspiron\Desktop\selenium\Opencart\master.xml
+
+22:02:32.939 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Inspiron\Desktop\selenium\Opencart\master.xml
+
+22:11:18.761 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Inspiron\Desktop\selenium\Opencart\master.xml
+
+22:11:35.647 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+22:11:38.766 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification Finished***
+04:58:09.001 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Inspiron\Desktop\selenium\Opencart\master.xml
+
+04:58:23.679 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+04:58:26.004 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification Finished***
+05:04:40.351 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+05:04:42.636 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification Finished***
+05:09:16.899 [main] INFO  testCases.TC001_AccountRegistraition -******Starting TC001_AccountRegistraition******
+05:09:17.153 [main] INFO  testCases.TC001_AccountRegistraition -Clicked on my account element
+05:09:17.961 [main] INFO  testCases.TC001_AccountRegistraition -Clicked on register element
+05:09:17.962 [main] INFO  testCases.TC001_AccountRegistraition -Providing user data for registration form
+05:09:20.866 [main] INFO  testCases.TC001_AccountRegistraition -validating the confirmation messege
+05:09:20.935 [main] INFO  testCases.TC001_AccountRegistraition -****** Ended TC001_AccountRegistraition ******
+05:09:40.109 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification started***
+05:09:44.337 [main] INFO  testCases.TC002_Login_Varification -***TC002_Login_Varification Finished***
+05:10:03.855 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:10:10.058 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:10:10.062 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:10:22.156 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:10:22.159 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:10:34.404 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:10:34.407 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:10:45.916 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
+05:10:45.919 [main] INFO  testCases.TC003_Login_Varification_DDT -****starting TC003_Login_Varification_DDT****
+05:10:48.585 [main] INFO  testCases.TC003_Login_Varification_DDT -****Finished TC003_Login_Varification_DDT****
